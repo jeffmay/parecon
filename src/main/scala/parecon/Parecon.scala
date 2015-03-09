@@ -1,0 +1,9 @@
+package parecon
+
+
+object Parecon {
+
+
+}
+
+
